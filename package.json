@@ -1,0 +1,22 @@
+{
+  "name": "actions-sample",
+  "version": "1.0.0",
+  "description": "GitHub Actions Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsrags/actions-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsrags/actions-sample/issues"
+  },
+  "homepage": "https://github.com/nsrags/actions-sample#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
